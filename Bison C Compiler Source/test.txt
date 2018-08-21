@@ -1,0 +1,7 @@
+func main()
+{
+
+BspLoadMap("maps\map1.bsp");
+SetMusic("music\metallica san.mp3");
+
+}

@@ -1,0 +1,6 @@
+func main{ 
+
+PUSH "Whats up World"
+CALLHOST SayHello
+
+}

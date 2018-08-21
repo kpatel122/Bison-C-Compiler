@@ -1,0 +1,27 @@
+func main{ 
+
+var x
+_L0: 
+PUSH x
+PUSH 5
+POP _T0, 
+POP _T1, 
+JG _T0, T1, _L2
+PUSH 0
+ JMP _L21
+_L2:
+PUSH 1
+_L21:
+POP _T0
+JE 0, _L1
+PUSH x
+PUSH 1
+POP _T0, 
+POP _T1, 
+ADD _T0,_T1
+PUSH _T0
+POP _T0
+MOV x, _T0 
+
+
+}
