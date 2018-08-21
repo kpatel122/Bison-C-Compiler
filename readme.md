@@ -1,7 +1,9 @@
 # Bison C Language Compiler
 Bison C compiler is a mini compiler based on the C programming language. This project was for my university dissertation on developing  Compilers, Virtual Machines & Graphic Engines.
 
-![Screenshot](https://raw.githubusercontent.com/kpatel122/Bison-C-Compiler/Images/BisonC.jpg)
+
+
+![Screenshot](https://raw.githubusercontent.com/kpatel122/Bison-C-Compiler/blob/master/Images/BisonC.jpg)
 
 # Description
 The C compiler outsputs an ASM file that the Bison Assembler uses to create an exe file for the Bison Virtual Machine to use. to see the final output look in the asm/bspLoad.basm folder, you can open it with notepad.
