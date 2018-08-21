@@ -12,8 +12,8 @@ note: this language does not need a semi colon after each line of code, and only
 # Documentation
 Documentation I wrote for the project (doc files):
 
-* [Compiler Theory](https://github.com/kpatel122/Bison-C-Compiler/blob/master/1.Delving-Knee-Deep-Into-Compiler-Theory.doc)
-* [Bison C Language](https://github.com/kpatel122/Bison-C-Compiler/blob/master/2.BisonC.doc)
+* [Compiler Theory](https://github.com/kpatel122/Bison-C-Compiler/blob/master/Documents/1.Delving-Knee-Deep-Into-Compiler-Theory.doc)
+* [Bison C Language](https://github.com/kpatel122/Bison-C-Compiler/blob/master/Documents/2.BisonC.doc)
 
 ## Languages
 C/C++
